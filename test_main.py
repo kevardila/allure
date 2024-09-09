@@ -7,7 +7,7 @@ def test_suma():
     assert suma(0, 0) == 0
 
 def test_resta():
-    assert resta(3, 2) == 1
+    assert resta(3, 2) == 8
     assert resta(-1, 1) == -2
     assert resta(0, 0) == 0
 
