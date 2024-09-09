@@ -2,8 +2,9 @@ import pytest
 import allure
 from main import suma, resta, multiplicacion, division
 
+pepe = 90
 
-@allure.parent_suite("summa suite")
+@allure.parent_suite(pepe)
 @allure.suite("numeros positivos")
 @allure.sub_suite("numeros del 1 al 10")
 def test_suma():
