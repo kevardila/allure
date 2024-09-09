@@ -2,7 +2,7 @@ import pytest
 import allure
 from main import suma, resta, multiplicacion, division
 
-pepe = 90
+pepe = "90 suite"
 
 @allure.parent_suite(pepe)
 @allure.suite("numeros positivos")
