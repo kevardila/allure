@@ -17,7 +17,7 @@ def test_multiplicacion():
     assert multiplicacion(0, 5) == 0
 
 def test_division():
-    assert division(6, 3) == 2
+    assert division(6, 3) == 0
     assert division(-6, 2) == -3
     assert division(0, 1) == 0
     with pytest.raises(ValueError, match="No se puede dividir por cero"):
