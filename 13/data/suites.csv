@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Sep 09 16:19:01 GMT 2024","Mon Sep 09 16:19:01 GMT 2024","1","Division suite","numeros positivos","numeros del 1 al 10","","","test_division",""
+"passed","Mon Sep 09 16:19:01 GMT 2024","Mon Sep 09 16:19:01 GMT 2024","0","summa suite","numeros positivos","numeros del 1 al 10","","","test_suma",""
+"passed","Mon Sep 09 16:19:01 GMT 2024","Mon Sep 09 16:19:01 GMT 2024","0","resta suite","numeros positivos","numeros del 1 al 10","","","test_resta",""
+"passed","Mon Sep 09 16:19:01 GMT 2024","Mon Sep 09 16:19:01 GMT 2024","0","multiplicacion suite ","numeros positivos","numeros del 1 al 10","","","test_multiplicacion",""
